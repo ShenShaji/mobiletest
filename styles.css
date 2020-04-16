@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Bitter', serif;
+}
+
+h1 {
+  font-size: 5.62rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2{font-size: 2rem;
+  font-family: 'Roboto Slab', serif;
+  margin-top: 50px;}
+h3{color: lightseagreen;
+  font-family: 'Roboto Slab', serif;}
+
+
+.top_container {
+  background-color: lightcyan;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom_cloud {position: absolute;  left:300px; right: 200px;}
+
+.top_cloud {position: absolute; right: 300px; top:50px;}
+
+.me {
+  border-radius: 60%;
+  margin: 10px auto 10px auto;
+  height: 200px;
+  width: 300px;
+}
+
+.car {
+  margin-left: 30px;
+  float: right;
+  border-radius: 100%;
+  width: 40%;
+}
+
+.dragon {
+  margin-right: 30px;
+  float: left;
+  border-radius: 100%;
+  width: 35%;
+}
+
+.skill-row{width: 50%;
+  text-align: left;
+  line-height: 2;
+margin: 100px auto;}
